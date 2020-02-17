@@ -8,8 +8,8 @@ type: cv
 
 I'm a passionate Software Engineer driven by the curiosity to learn and discover new technologies.
 
-\- 6+ years of experience as Software Engineer<br />
-\- 5 years of experience with Node.js<br />
+\- 7+ years of experience as Software Engineer<br />
+\- 6 years of experience with Node.js<br />
 \- 3 years of experience with TypeScript<br />
 \- 2 years of experience with Go
 
@@ -31,9 +31,13 @@ Contacts: [email](mailto:hello@adns.io) - [github](https://github.com/adnsio) - 
 
 ---
 
+**Senior Software Engineer**<br />
+ProntoPro - [website](https://www.prontopro.it) - [github](https://github.com/prontopro)<br />
+_Jan 2020 - Present_
+
 **Software Engineer**<br />
 Satispay - [website](https://www.satispay.com) - [github](https://github.com/satispay)<br />
-_Apr 2017 - Present_
+_Apr 2017 - Dec 2019_
 
 \- Internal consoles developed in React with a GraphQL backend in Node.js.<br />
 \- UI for online and ecommerce payments developed in React.<br />
@@ -49,4 +53,5 @@ _Apr 2013 - Apr 2017_
 \- Various full-stack Node.js and PHP web applications.<br />
 \- Web applications with React.<br />
 \- Mobile applications with React Native.<br />
-\- Configured Asterisk VoIP servers.
+\- Configured Asterisk VoIP servers.<br />
+\- Managed Linux servers on AWS or similar providers.
