@@ -1,7 +1,3 @@
----
-type: cv
----
-
 ## Alessio Dionisi
 
 ---
