@@ -2,21 +2,11 @@
 
 ---
 
-I'm a Software Engineer with 7+ years of experience driven by the curiosity to learn and discover new technologies. I started working as a full stack freelancer and then switched to frontend only, from 2020 I mainly develop backend services with Go.
+I'm a Software Engineer with 8+ years of experience driven by the curiosity to learn and discover new technologies. I started working as a full stack freelancer and then switched to frontend only, from 2020 I mainly develop backend services with Go.
 
 Please check out my [github](https://github.com/adnsio) and [linkedin](https://linkedin.com/in/adnsio) profile.
 
 Contacts: [email](mailto:hello@adns.io)
-
-### Skills (just a few)
-
----
-
-\- Programming languages: Go, Rust, C, TypeScript, PHP<br />
-\- Backend frameworks & libraries: Chi (Go), Symfony (PHP)<br />
-\- Frontend frameworks & libraries: Vue.js, Nuxt.js, Tailwind CSS, React<br />
-\- Databases: CockroachDB, PostgreSQL, MySQL, Cassandra<br />
-\- Languages: Italian, English
 
 ### Work experience
 
@@ -26,7 +16,7 @@ Contacts: [email](mailto:hello@adns.io)
 Breathe - [website](https://appbreathe.com) - [github](https://github.com/appbreathe)<br />
 May 2020 - Present
 
-Breathe is a meditation app with the mission of making the world a happier place through the power of meditation. So far we have reached more than 3033 users since launch in August with about 140 active users per day. (numbers updated to December 9)
+Breathe is a meditation app with the mission of making the world a happier place through the power of meditation. So far we have reached more than 6.227 users since launch in August with about 140 active users per day. (numbers updated to March 2021)
 
 \- Developed backend services with Go.<br />
 \- Developed iOS and Android apps with Flutter and native code.<br />
@@ -69,3 +59,13 @@ Apr 2013 - Apr 2017
 \- Developed the frontend of some web applications with React.<br />
 \- Developed mobile applications with React Native.<br />
 \- Managed Linux on AWS, similar providers or dedicated servers.
+
+### Skills (just a few)
+
+---
+
+\- Programming languages: Go, Rust, C, TypeScript, PHP<br />
+\- Backend frameworks & libraries: Chi (Go), Symfony (PHP)<br />
+\- Frontend frameworks & libraries: Vue.js, Nuxt.js, Tailwind CSS, React<br />
+\- Databases: CockroachDB, PostgreSQL, MySQL, Cassandra<br />
+\- Languages: Italian, English
