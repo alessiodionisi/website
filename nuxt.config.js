@@ -1,5 +1,6 @@
 export default {
   target: "static",
+  ssr: false,
   buildModules: ["@nuxt/typescript-build"],
   modules: ["bootstrap-vue/nuxt", "@nuxt/content"],
   head: {
