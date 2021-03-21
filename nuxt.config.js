@@ -18,7 +18,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "I'm a Software Engineer with 7+ years of experience driven by the curiosity to learn and discover new technologies.",
+          "I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes.",
       },
     ],
     link: [
