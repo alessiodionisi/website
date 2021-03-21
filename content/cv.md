@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes.
+I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes. I'm trying to bring the culture of remote work to the companies I know and work with, sooner or later I'll start writing a blog about this topic.
 
 Please check out my [github](https://github.com/adnsio) and [linkedin](https://linkedin.com/in/adnsio) profile.
 
