@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer with 8+ years of experience driven by the curiosity to learn and discover new technologies. I started working as a full stack freelancer and then switched to frontend only, from 2020 I mainly develop backend services with Go.
+I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes.
 
 Please check out my [github](https://github.com/adnsio) and [linkedin](https://linkedin.com/in/adnsio) profile.
 
@@ -18,7 +18,7 @@ May 2020 - Present
 
 Breathe is a meditation app with the mission of making the world a happier place through the power of meditation. So far we have reached more than 6.227 users since launch in August with about 140 active users per day. (numbers updated to March 2021)
 
-\- Developed backend services with Go.<br />
+\- Developed backend services with Go and GraphQL.<br />
 \- Developed iOS and Android apps with Flutter and native code.<br />
 \- Used Metabase as analytics tool.<br />
 \- Used CockroachDB as database.<br />
@@ -32,7 +32,7 @@ Jan 2020 - Present
 
 ProntoPro helps you find service professionals: anything from a wedding photographer to a plumber to a private detective. Here I'm learning how to "champion" features from start to finish (talking to all the people involved), not just developing them.
 
-\- Developed backend services with Go.<br />
+\- Developed backend services with Go and GraphQL.<br />
 \- Developed backend services with PHP and Symfony framework.<br />
 \- Used Cassandra as database to handle lots of data (~1 billion rows).<br />
 \- Used Kubernetes, Helm and Terraform to deploy all projects.
