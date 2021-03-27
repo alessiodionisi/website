@@ -1,6 +1,4 @@
-## Alessio Dionisi
-
----
+# Alessio Dionisi
 
 I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes. I'm trying to bring the culture of remote work to the companies I know and work with, sooner or later I'll start writing a blog about this topic.
 
@@ -8,11 +6,10 @@ Please check out my [github](https://github.com/adnsio) and [linkedin](https://l
 
 Contacts: [email](mailto:hello@adns.io)
 
-### Work experience
+## Work experience
 
----
+### Software Engineer & Co-Founder
 
-**Software Engineer & Co-Founder**<br />
 Breathe - [website](https://appbreathe.com) - [github](https://github.com/appbreathe)<br />
 May 2020 - Present
 
@@ -26,7 +23,8 @@ Breathe is a meditation app with the mission of making the world a happier place
 \- Used Cloudflare to protect all network requests.<br />
 \- Used Kubernetes, Helm and Terraform to deploy all projects.
 
-**Software Engineer**<br />
+### Software Engineer
+
 ProntoPro - [website](https://www.prontopro.it) - [github](https://github.com/prontopro)<br />
 Jan 2020 - Present
 
@@ -37,7 +35,8 @@ ProntoPro helps you find service professionals: anything from a wedding photogra
 \- Used Cassandra as database to handle lots of data (~1 billion rows).<br />
 \- Used Kubernetes, Helm and Terraform to deploy all projects.
 
-**Software Engineer**<br />
+### Software Engineer
+
 Satispay - [website](https://www.satispay.com) - [github](https://github.com/satispay)<br />
 Apr 2017 - Dec 2019
 
@@ -50,7 +49,8 @@ Satispay is a “bank account enabled” mobile payment platform that is indepen
 \- Used AWS CLI tools and Terraform to build, manage and deploy all projects.<br />
 \- Made various internal CLI tools in Go and Node.js.
 
-**Software Engineer**<br />
+### Software Engineer
+
 Self-employed<br />
 Apr 2013 - Apr 2017
 
@@ -60,9 +60,7 @@ Apr 2013 - Apr 2017
 \- Developed mobile applications with React Native.<br />
 \- Managed Linux on AWS, similar providers or dedicated servers.
 
-### Skills (just a few)
-
----
+## Skills (just a few)
 
 \- Programming languages: Go, Rust, C, TypeScript, PHP<br />
 \- Backend frameworks & libraries: Chi (Go), Symfony (PHP)<br />

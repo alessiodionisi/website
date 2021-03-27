@@ -1,18 +1,19 @@
-export default {
+import { NuxtConfig } from "@nuxt/types"
+
+const config: NuxtConfig = {
   target: "static",
-  ssr: false,
-  buildModules: ["@nuxt/typescript-build"],
-  modules: ["bootstrap-vue/nuxt", "@nuxt/content"],
+  buildModules: ["@nuxt/typescript-build", "@nuxtjs/tailwindcss"],
+  modules: ["@nuxt/content"],
   head: {
     htmlAttrs: {
       lang: "en",
     },
     title: "Alessio Dionisi ~ Software Engineer",
     meta: [
-      { charset: "utf-8" },
+      { charset: "UTF-8" },
       {
         name: "viewport",
-        content: "width=device-width, initial-scale=1, shrink-to-fit=no",
+        content: "width=device-width, initial-scale=1.0",
       },
       {
         hid: "description",
@@ -28,4 +29,9 @@ export default {
       },
     ],
   },
+  tailwindcss: {
+    jit: true,
+  },
 }
+
+export default config

@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <b-container class="mt-5 mb-5 content">
-      <nuxt-content :document="cv" />
-    </b-container>
-  </div>
+  <article class="container max-w-4xl mx-auto p-4 prose">
+    <nuxt-content :document="cv" />
+  </article>
 </template>
 
 <script lang="ts">
@@ -19,8 +17,3 @@ export default Vue.extend({
   },
 })
 </script>
-
-<style lang="sass" scoped>
-.content
-  max-width: 800px
-</style>
