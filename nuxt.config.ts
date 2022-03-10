@@ -8,7 +8,7 @@ const config: NuxtConfig = {
     htmlAttrs: {
       lang: "en",
     },
-    title: "Alessio Dionisi ~ Software Engineer",
+    title: "Alessio Dionisi ~ Site Reliability Engineer",
     meta: [
       { charset: "UTF-8" },
       {
@@ -19,7 +19,7 @@ const config: NuxtConfig = {
         hid: "description",
         name: "description",
         content:
-          "I'm a Software Engineer with 8+ years of experience. I started working in 2013 as a freelancer, now I mainly develop backend services and web applications with Go, CockroachDB, Vue.js and Kubernetes.",
+          "I'm a SRE / SWE with 9+ years of experience. I started working in 2013 as a freelancer (full stack), from 2017 to 2019 I worked mainly as a frontend, then in 2020 I moved to backend for 1 year and now I work as SRE.",
       },
     ],
     link: [
