@@ -29,22 +29,6 @@ Jan 2020 - Dec 2021
 \- I used Kubernetes, Helm and Terraform to deploy all projects.<br />
 \- I used Drone as CI.
 
-### Software Engineer & Co-Founder @ Breathe
-
-[website](https://appbreathe.com) - [github](https://github.com/appbreathe)<br />
-May 2020 - Present
-
-Breathe is a meditation app with the mission of making the world a happier place through the power of meditation. So far we have reached more than 6.227 users since launch in August 2020 with about 140 active users per day. (numbers updated to March 2021)
-
-\- I develop backend services with Go and GraphQL.<br />
-\- I develop the iOS and Android app with Flutter and native code.<br />
-\- I use Metabase as analytics tool.<br />
-\- I use CockroachDB as database.<br />
-\- I use Cloudflare to protect all network requests.<br />
-\- I use Kubernetes, Helm and Terraform to deploy all services.<br />
-\- I use Scaleway serverless services to reduce the infrastructure costs.<br />
-\- I use GitHub Actions and Drone as CI.
-
 ### Software Engineer @ Satispay
 
 [website](https://www.satispay.com) - [github](https://github.com/satispay)<br />
