@@ -1,6 +1,6 @@
 # Alessio Dionisi
 
-I'm a SRE / SWE with 9+ years of experience. I started working in 2013 as a freelancer (full stack), from 2017 to 2019 I worked mainly as a frontend, then in 2020 I moved to backend for 1 year and now I work as SRE.
+I'm a SRE / SWE with 10+ years of experience. I started working in 2013 as a freelancer (full stack), from 2017 to 2019 I worked mainly as a frontend, then in 2020 I moved to backend for 1 year and now I work as SRE.
 
 Please check out my [github](https://github.com/alessiodionisi) and [linkedin](https://linkedin.com/in/alessiodionisi) profile.
 
