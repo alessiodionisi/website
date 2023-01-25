@@ -13,13 +13,11 @@ Contacts: [email](mailto:me@alessiodionisi.com)
 [website](https://www.prontopro.it) - [github](https://github.com/prontopro)<br />
 Nov 2021 - present
 
-ProntoPro.it is Italy's largest local service marketplace, expanding internationally. We help millions of customers to find a local service professional: we cover 600+ services, ranging from wedding photographers to plumbers to guitar teachers. Within a few years, we expect that booking a plumber or a painter online will be as effortless as buying a book.
-
 \- I manage a pool of Kubernetes clusters on AWS and OpenStack.<br />
 \- I manage the monitoring stack (Prometheus, Thanos, Loki, Grafana).<br />
 \- I use Terraform and Packer as IaC tools.
 
-#### Software Engineer @ ProntoPro
+### Software Engineer @ ProntoPro
 
 Jan 2020 - Dec 2021
 
@@ -33,8 +31,6 @@ Jan 2020 - Dec 2021
 
 [website](https://www.satispay.com) - [github](https://github.com/satispay)<br />
 Apr 2017 - Dec 2019
-
-Satispay is a “bank account enabled” mobile payment platform that is independent from debit and credit card networks. I joined the startup in April 2017 when it was not yet used a lot (about 150k users), in December 2019 there were almost 1 million users.
 
 \- I developed internal consoles with React, GraphQL and Node.js.<br />
 \- I developed the UI for online and ecommerce payments with React, GraphQL and Node.js.<br />
