@@ -11,9 +11,16 @@
   {{- $css := . | resources.Minify }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
   {{- end }}
+
   {{- with resources.GetMatch "js/darkmode.js" }}
   {{- $js := . | resources.Minify }}
   <script src="{{ $js.RelPermalink }}"></script>
+  {{- end }}
+
+  {{- with resources.GetMatch "images/profile-picture.jpg" }}
+  {{- with .Resize "512x png" }}
+  <link rel="icon" href="{{ .RelPermalink }}" />
+  {{- end }}
   {{- end }}
 </head>
 
@@ -37,11 +44,12 @@
                 <div class="relative">
                   <a aria-label="Home" class="block h-16 w-16 origin-left pointer-events-auto"
                     href="{{ .Site.Home.RelPermalink }}">
-                    {{- with resources.GetMatch "images/profile-picture.jpg"
-                    }} {{- with .Resize "512x webp" }}
+                    {{- with resources.GetMatch "images/profile-picture.jpg" }}
+                    {{- with .Resize "512x webp" }}
                     <img alt="" src="{{ .RelPermalink }}" width="512" height="512"
                       class="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" />
-                    {{- end }} {{- end }}
+                    {{- end }}
+                    {{- end }}
                   </a>
                 </div>
               </div>
