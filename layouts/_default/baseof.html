@@ -33,7 +33,7 @@
 
   <div class="relative">
     <header class="pointer-events-none relative z-50 flex flex-col">
-      {{- if .Params.big_profile_picture }}
+      {{- if .Params.bigProfilePicture }}
       <div class="order-last mt-[calc(theme(spacing.16)-theme(spacing.3))]"></div>
 
       <div class="sm:px-8 top-0 order-last -mb-3 pt-3">
@@ -66,7 +66,7 @@
               <div class="mx-auto max-w-2xl lg:max-w-5xl">
                 <div class="relative flex gap-4">
                   <div class="flex flex-1">
-                    {{- if not .Params.big_profile_picture }}
+                    {{- if not .Params.bigProfilePicture }}
                     <div
                       class="h-10 w-10 rounded-full bg-white/90 p-0.5 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur dark:bg-zinc-800/90 dark:ring-white/10">
                       <a aria-label="Home" class="pointer-events-auto" href="{{ .Site.Home.RelPermalink }}">
@@ -147,15 +147,7 @@
     </header>
 
     <main>
-      <div class="sm:px-8 {{- if .Params.big_profile_picture }} mt-8{{- else }} mt-16 sm:mt-32{{- end }}">
-        <div class="mx-auto max-w-7xl lg:px-8">
-          <div class="relative px-4 sm:px-8 lg:px-12">
-            <div class="mx-auto max-w-2xl lg:max-w-5xl">
-              {{ block "main" . }}{{ end }}
-            </div>
-          </div>
-        </div>
-      </div>
+      {{ block "main" . }}{{ end }}
     </main>
 
     <footer class="mt-32">
