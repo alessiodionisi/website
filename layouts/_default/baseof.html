@@ -8,10 +8,12 @@
   <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
   {{- with resources.GetMatch "css/main.css" | postCSS }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" />
+  {{- $css := . | resources.Minify }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
   {{- end }}
   {{- with resources.GetMatch "js/darkmode.js" }}
-  <script src="{{ .RelPermalink }}"></script>
+  {{- $js := . | resources.Minify }}
+  <script src="{{ $js.RelPermalink }}"></script>
   {{- end }}
 </head>
 
@@ -72,7 +74,7 @@
                   </div>
                   {{- with site.Menus.main }}
                   <div class="flex flex-1 justify-end md:justify-center">
-                    <div class="pointer-events-auto md:hidden" data-headlessui-state="">
+                    <!-- <div class="pointer-events-auto md:hidden" data-headlessui-state="">
                       <button
                         class="group flex items-center rounded-full bg-white/90 px-4 py-2 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur dark:bg-zinc-800/90 dark:text-zinc-200 dark:ring-white/10 dark:hover:ring-white/20"
                         type="button" aria-expanded="false" data-headlessui-state=""
@@ -83,9 +85,10 @@
                             stroke-linejoin="round"></path>
                         </svg>
                       </button>
-                    </div>
+                    </div> -->
 
-                    <nav class="pointer-events-auto hidden md:block">
+                    <!-- hidden md:block -->
+                    <nav class="pointer-events-auto">
                       <ul
                         class="flex rounded-full bg-white/90 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur dark:bg-zinc-800/90 dark:text-zinc-200 dark:ring-white/10">
                         {{- range . }}
