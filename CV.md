@@ -20,7 +20,7 @@ LinkedIn: [https://www.linkedin.com/in/alessiodionisi](https://www.linkedin.com/
 
 _Mar 2023 - Present_
 
-SIGHUP is an engineering firm and Enterprise Open Source company focused on Kubernetes and Infrastructure automation.
+SIGHUP is an Enterprise Open Source company focused on Kubernetes and Infrastructure automation.
 
 - Working on CNCF certified [Kubernetes Fury Distribution](https://docs.kubernetesfury.com).
 - Developing and maintaining [furyctl](https://github.com/sighupio/furyctl) CLI tool.
@@ -31,7 +31,7 @@ _Nov 2021 - Mar 2023_
 
 ProntoPro is Italy's largest local service marketplace.
 
-- Managed the migration of some legacy Kubernetes clusters from OpenStack to AWS EKS
+- Managed the migration of some legacy Kubernetes clusters from OpenStack to AWS EKS.
 - Kept the clusters updated from version 1.16 up to 1.24.
 - Managed the migration from Cilium CNI installed with custom manifest to Helm.
 - Updated and revised the monitoring stack with Prometheus and Grafana.
@@ -53,9 +53,7 @@ _Jan 2020 - Dec 2021_
 
 _Apr 2017 - Dec 2019_
 
-Satispay is a mobile payment platform that is independent from debit and credit card networks.
-
-_I joined the startup in April 2017 when it was not yet used a lot (about 150k users), in December 2019 there were almost 1 million users._
+Satispay is a mobile payment platform. When I joined, it had around 150k users, which grew to almost 1 million by December 2019.
 
 - Developed internal consoles with React, GraphQL and Node.js.
 - Developed the UI for online and ecommerce payments with React, GraphQL and Node.js.
