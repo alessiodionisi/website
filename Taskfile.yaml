@@ -1,0 +1,6 @@
+version: "3"
+
+tasks:
+  cv:
+    cmds:
+      - pandoc --pdf-engine /Library/TeX/texbin/pdflatex -o CV.pdf CV.md
