@@ -1,7 +1,7 @@
 ---
 geometry: margin=2cm
 pagestyle: empty
-output: pdf_document
+colorlinks: true
 ---
 
 # Alessio Dionisi
@@ -10,9 +10,9 @@ I’m an SWE/SRE with 10+ years of experience in frontend, backend and devops. C
 
 Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com)
 
-GitHub: https://github.com/alessiodionisi
+GitHub: [https://github.com/alessiodionisi](https://github.com/alessiodionisi)
 
-LinkedIn: https://www.linkedin.com/in/alessiodionisi
+LinkedIn: [https://www.linkedin.com/in/alessiodionisi](https://www.linkedin.com/in/alessiodionisi)
 
 ## Experience
 
@@ -22,7 +22,8 @@ _Mar 2023 - Present_
 
 SIGHUP is an engineering firm and Enterprise Open Source company focused on Kubernetes and Infrastructure automation.
 
-- I'm mainly working on Open Source projects and the CNCF certified Fury Kubernetes distribution.
+- Working on CNCF certified [Kubernetes Fury Distribution](https://docs.kubernetesfury.com).
+- Developing and maintaining [furyctl](https://github.com/sighupio/furyctl) CLI tool.
 
 ### Site Reliability Engineer @ [ProntoPro](https://www.prontopro.it)
 
@@ -31,7 +32,7 @@ _Nov 2021 - Mar 2023_
 ProntoPro is Italy's largest local service marketplace.
 
 - Managed the migration of some legacy Kubernetes clusters from OpenStack to AWS EKS
-- Kept the clusters updated from version 1.16 up to the latest version.
+- Kept the clusters updated from version 1.16 up to 1.24.
 - Managed the migration from Cilium CNI installed with custom manifest to Helm.
 - Updated and revised the monitoring stack with Prometheus and Grafana.
 - Managed and kept updated Sentry, Drone CI and other internal tools.
@@ -41,11 +42,12 @@ ProntoPro is Italy's largest local service marketplace.
 
 _Jan 2020 - Dec 2021_
 
-- Developed backend services with Go.
-- Developed backend services with PHP and Symfony framework.
+- Developed a backend service with Go and GraphQL to generate thousands of SEO pages.
+- Developed and maintained the main project with PHP and Symfony framework.
+- Kept Go version updated in all projects.
 - Used Cassandra as database to handle lots of data.
 - Used Kubernetes, Helm and Terraform to deploy all projects.
-- Used Drone as CI.
+- Used Drone as continuous integration platform.
 
 ### Software Engineer @ [Satispay](https://www.satispay.com)
 
@@ -61,7 +63,7 @@ _I joined the startup in April 2017 when it was not yet used a lot (about 150k u
 - Developed ecommerce plugins for WooCommerce, Magento and PrestaShop in PHP.
 - Used AWS CLI tools and Terraform to build, manage and deploy all projects.
 - Made various internal CLI tools in Go and Node.js.
-- Used Jenkins as CI.
+- Used Jenkins as continuous integration platform.
 
 ### Self-employed Software Engineer @ Shinyweb
 
