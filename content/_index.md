@@ -2,14 +2,14 @@
 title: About
 menu: main
 layout: about
-summary: Software and Site Reliability Engineer
+summary: SRE / SWE / Go / Kubernetes
 
 bigProfilePicture: true
-subtitle: Software and Site Reliability Engineer
+subtitle: SRE / SWE / Go / Kubernetes
 workExperiences:
   - company: SIGHUP
     roles:
-      - name: Software Engineer
+      - name: Kubernetes Engineer
         from: Mar 2023
         to: Present
   - company: ProntoPro

@@ -6,7 +6,7 @@ colorlinks: true
 
 # Alessio Dionisi
 
-I’m an SWE/SRE with 10 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
+I’m an SRE/SWE with 10 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
 
 Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com)
 
@@ -16,7 +16,7 @@ LinkedIn: [https://www.linkedin.com/in/alessiodionisi](https://www.linkedin.com/
 
 ## Experience
 
-### Software Engineer @ [SIGHUP](https://sighup.io)
+### Kubernetes Engineer @ [SIGHUP](https://sighup.io)
 
 _Mar 2023 - Present_
 
