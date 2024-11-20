@@ -6,7 +6,7 @@ colorlinks: true
 
 # Alessio Dionisi
 
-I’m an SRE/SWE with 10 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
+I’m an SRE/SWE with 11 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
 
 Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com)
 
@@ -16,7 +16,7 @@ LinkedIn: [https://www.linkedin.com/in/alessiodionisi](https://www.linkedin.com/
 
 ## Experience
 
-### Kubernetes Engineer @ [SIGHUP](https://sighup.io)
+### Platform Engineer @ [SIGHUP](https://sighup.io)
 
 _Mar 2023 - Present_
 
@@ -25,6 +25,7 @@ SIGHUP is an Enterprise Open Source company focused on Kubernetes and Infrastruc
 - Developed and maintained the tool "furyctl", enabling the installation and management of the Kubernetes Fury distribution. This tool empowered the solution engineering team to autonomously install and manage Kubernetes clusters.
 - Contributed to the Fury project, a CNCF-certified Kubernetes distribution, ensuring ongoing support and enhancements for the dedicated provisioning tool, furyctl.
 - Engaged in an internal project for a client focused on monitoring RBAC permissions in a Kubernetes cluster. This project aimed at understanding the permissions granted to users or groups, distinguishing them from default permissions.
+- Managed the upgrade of on-premises Kubernetes clusters from end-of-life to the latest version for a major banking client.
 
 ### Site Reliability Engineer @ [ProntoPro](https://www.prontopro.it)
 

@@ -9,7 +9,7 @@ subtitle: SRE / SWE / Go / Kubernetes
 workExperiences:
   - company: SIGHUP
     roles:
-      - name: Kubernetes Engineer
+      - name: Platform Engineer
         from: Mar 2023
         to: Present
   - company: ProntoPro
@@ -32,4 +32,4 @@ workExperiences:
         to: Apr 2017
 ---
 
-I’m an SRE/SWE with 10 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
+I’m an SRE/SWE with 11 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
