@@ -6,7 +6,7 @@ colorlinks: true
 
 # Alessio Dionisi
 
-I’m an SRE/SWE with 11 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
+I’m an SRE/SWE with 12 years of experience in infrastructure, backend and frontend technologies. Currently, I’m working with Go and Kubernetes, focusing primarily on open source projects.
 
 Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com)
 
@@ -22,8 +22,9 @@ _Jan 2025 - Present_
 
 Working as a freelance Platform and Software Engineer, providing consulting and hands-on development focused on Kubernetes infrastructure, CI/CD automation, and Go-based backend development.
 
-- Leading engineering and infrastructure management for a high-traffic, real-time Telegram-based game with over 1 million monthly active users and thousands of concurrent players.
-- Managing infrastructure and software development for a blockchain-based online casino.
+- Managing infrastructure for a leading Italian online classfieds service.
+- Led engineering and infrastructure management for a high-traffic, real-time Telegram-based game with over 1 million monthly active users and thousands of concurrent players.
+- Managed infrastructure and software development for a blockchain-based online casino.
 
 ### Platform Engineer @ [SIGHUP](https://sighup.io)
 
