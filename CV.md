@@ -1,26 +1,23 @@
 ---
-geometry: margin=2cm
 pagestyle: empty
 colorlinks: true
+geometry: margin=1.8cm
+fontsize: 11pt
 ---
 
 # Alessio Dionisi
 
 Platform Engineer with 12+ years across infrastructure, backend, and frontend. Now focused on Kubernetes and Go.
 
-I help companies design and operate scalable, reliable platforms, improve reliability, and build cloud-native infrastructure.
+I help companies design and operate scalable platforms, improve reliability, and build cloud-native infrastructure.
 
 Open to freelance contracts and consulting engagements.
 
-Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com)
-
-GitHub: [https://github.com/alessiodionisi](https://github.com/alessiodionisi)
-
-LinkedIn: [https://www.linkedin.com/in/alessiodionisi](https://www.linkedin.com/in/alessiodionisi)
+Email: [me@alessiodionisi.com](mailto:me@alessiodionisi.com), [GitHub](https://github.com/alessiodionisi), [LinkedIn](https://www.linkedin.com/in/alessiodionisi)
 
 ## Experience
 
-### Platform Engineer @ Freelance
+### Platform Engineer (Freelance)
 
 _Jan 2025 - Present_
 
@@ -72,10 +69,14 @@ Satispay is a mobile payment platform.
 - Redesigned core online payment services to improve maintainability and simplify external integrations.
 - Built web payment services for e-commerce platform integrations.
 
-### Software Engineer @ Freelance
+### Software Engineer (Freelance)
 
 _Apr 2013 - Apr 2017_
 
 - Deployed and managed cloud infrastructure with OpenStack and Proxmox, providing VPS hosting services.
 - Implemented an Asterisk-based VoIP solution for web hosting support teams.
 - Built SaaS applications with Laravel and React Native, including clinic management and payment services.
+
+## Skills
+
+Go, Kubernetes, Terraform, Helm, AWS (EKS), CI/CD (Drone, GitHub Actions), Grafana, Cilium, OpenStack, Proxmox, Docker, Linux, GraphQL
